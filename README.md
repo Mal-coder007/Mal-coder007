@@ -52,6 +52,8 @@ I'm a FrontEnd developer and a Web3 Enthusiast building my version of the digita
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Mal-coder007&&theme=xcode)](https://github.com/Mal-coder007)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Mal-coder007&&theme=tokyonight" alt="Mal-coder007" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mal-coder007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mal-coder007" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Mal-coder007&&theme=tokyonight" alt="Mal-coder007" /></p>
 
-<p align="center"><img align="center" style="margin-top:20px;" src="https://github-readme-stats.vercel.app/api?username=Mal-coder007&show_icons=true&locale=en&theme=tokyonight" alt="Mal-coder007" /></p>
+<p align="left"><img align="center" style="margin-top:20px;" src="https://github-readme-stats.vercel.app/api?username=Mal-coder007&show_icons=true&locale=en&theme=tokyonight" alt="Mal-coder007" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mal-coder007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mal-coder007" />
