@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 # 🏄‍♂️ Opeyemi David
 
-I'm a FrontEnd developer and Web3 Enthusiast building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.I'm also a tech entuhusiast and avid gamer wth experience in detecting glitches,assisting in game development in games ranging from Atari to SEGA Genesis to Modern PC,Console and Andriod.
+I'm a FrontEnd developer and a Web3 Enthusiast building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.I'm also a tech entuhusiast and avid gamer with experience in detecting glitches, assisting in development of games ranging from Atari to SEGA Genesis to Modern PC,Console and Andriod.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
    <p align="left">
@@ -54,4 +54,4 @@ I'm a FrontEnd developer and Web3 Enthusiast building my version of the digital 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Mal-coder007&&theme=tokyonight" alt="Mal-coder007" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mal-coder007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mal-coder007" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mal-coder007&show_icons=true&locale=en&theme=tokyonight" alt="Mal-coder007" /></p>
+<p align="center"><img align="center" style="margin-top:20px;" src="https://github-readme-stats.vercel.app/api?username=Mal-coder007&show_icons=true&locale=en&theme=tokyonight" alt="Mal-coder007" /></p>
